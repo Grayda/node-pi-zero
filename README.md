@@ -24,6 +24,36 @@ To regenerate this list, run `gulp generate`
 ```sh
 $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-latest.sh -O /tmp/install-node-latest.sh && source /tmp/install-node-latest.sh
 ```
+## v8.2.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.2.0.sh -O /tmp/install-node-v8.2.0.sh && source /tmp/install-node-v8.2.0.sh
+```
+
+## v8.1.4
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.4.sh -O /tmp/install-node-v8.1.4.sh && source /tmp/install-node-v8.1.4.sh
+```
+
+## v8.1.3
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.3.sh -O /tmp/install-node-v8.1.3.sh && source /tmp/install-node-v8.1.3.sh
+```
+
+## v8.1.2
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.2.sh -O /tmp/install-node-v8.1.2.sh && source /tmp/install-node-v8.1.2.sh
+```
+
+## v8.1.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.0.sh -O /tmp/install-node-v8.1.0.sh && source /tmp/install-node-v8.1.0.sh
+```
+
 ## v8.0.0
 
 ```sh
