@@ -689,4 +689,3 @@ $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node
 ```sh
 $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v4.0.0.sh -O /tmp/install-node-v4.0.0.sh && source /tmp/install-node-v4.0.0.sh
 ```
-
