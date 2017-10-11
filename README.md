@@ -24,6 +24,78 @@ To regenerate this list, run `gulp generate`
 ```sh
 $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-latest.sh -O /tmp/install-node-latest.sh && source /tmp/install-node-latest.sh
 ```
+## v8.7.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.7.0.sh -O /tmp/install-node-v8.7.0.sh && source /tmp/install-node-v8.7.0.sh
+```
+
+## v8.5.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.5.0.sh -O /tmp/install-node-v8.5.0.sh && source /tmp/install-node-v8.5.0.sh
+```
+
+## v8.4.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.4.0.sh -O /tmp/install-node-v8.4.0.sh && source /tmp/install-node-v8.4.0.sh
+```
+
+## v8.3.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.3.0.sh -O /tmp/install-node-v8.3.0.sh && source /tmp/install-node-v8.3.0.sh
+```
+
+## v8.2.1
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.2.1.sh -O /tmp/install-node-v8.2.1.sh && source /tmp/install-node-v8.2.1.sh
+```
+
+## v8.2.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.2.0.sh -O /tmp/install-node-v8.2.0.sh && source /tmp/install-node-v8.2.0.sh
+```
+
+## v8.1.4
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.4.sh -O /tmp/install-node-v8.1.4.sh && source /tmp/install-node-v8.1.4.sh
+```
+
+## v8.1.3
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.3.sh -O /tmp/install-node-v8.1.3.sh && source /tmp/install-node-v8.1.3.sh
+```
+
+## v8.1.2
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.2.sh -O /tmp/install-node-v8.1.2.sh && source /tmp/install-node-v8.1.2.sh
+```
+
+## v8.1.1
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.1.sh -O /tmp/install-node-v8.1.1.sh && source /tmp/install-node-v8.1.1.sh
+```
+
+## v8.1.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.1.0.sh -O /tmp/install-node-v8.1.0.sh && source /tmp/install-node-v8.1.0.sh
+```
+
+## v8.0.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v8.0.0.sh -O /tmp/install-node-v8.0.0.sh && source /tmp/install-node-v8.0.0.sh
+```
+
 ## v7.9.0
 
 ```sh
@@ -100,6 +172,12 @@ $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node
 
 ```sh
 $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v7.2.0.sh -O /tmp/install-node-v7.2.0.sh && source /tmp/install-node-v7.2.0.sh
+```
+
+## v7.10.1
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v7.10.1.sh -O /tmp/install-node-v7.10.1.sh && source /tmp/install-node-v7.10.1.sh
 ```
 
 ## v7.10.0
@@ -220,6 +298,36 @@ $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node
 
 ```sh
 $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v6.2.0.sh -O /tmp/install-node-v6.2.0.sh && source /tmp/install-node-v6.2.0.sh
+```
+
+## v6.11.4
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v6.11.4.sh -O /tmp/install-node-v6.11.4.sh && source /tmp/install-node-v6.11.4.sh
+```
+
+## v6.11.3
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v6.11.3.sh -O /tmp/install-node-v6.11.3.sh && source /tmp/install-node-v6.11.3.sh
+```
+
+## v6.11.2
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v6.11.2.sh -O /tmp/install-node-v6.11.2.sh && source /tmp/install-node-v6.11.2.sh
+```
+
+## v6.11.1
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v6.11.1.sh -O /tmp/install-node-v6.11.1.sh && source /tmp/install-node-v6.11.1.sh
+```
+
+## v6.11.0
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v6.11.0.sh -O /tmp/install-node-v6.11.0.sh && source /tmp/install-node-v6.11.0.sh
 ```
 
 ## v6.10.3
@@ -370,6 +478,12 @@ $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node
 
 ```sh
 $ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v5.0.0.sh -O /tmp/install-node-v5.0.0.sh && source /tmp/install-node-v5.0.0.sh
+```
+
+## v4.8.4
+
+```sh
+$ wget https://raw.githubusercontent.com/grayda/node-pi-zero/master/install-node-v4.8.4.sh -O /tmp/install-node-v4.8.4.sh && source /tmp/install-node-v4.8.4.sh
 ```
 
 ## v4.8.3
