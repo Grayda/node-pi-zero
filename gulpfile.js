@@ -16,14 +16,14 @@ gulp.task('generate', function() {
   gutil.log("Requesting all node versions..")
   GetNodeVersions.parse(["all"]).then(function(versions) {
     async.map(versions, function(version, next) {
-      options = {method: 'HEAD', host: "nodejs.org", port: 80, path: '/dist/v' + version + "/node-v" + version + "-linux-armv6l.tar.gz"}
+      options = {method: 'HEAD', host: "nodejs.org", port: 80, path: '/dist/v' + version + "/node-v" + version + "-linux-" + architecture + ".tar.gz"}
       req = http.request(options, function(r, err) {
         if(r.statusCode == "200") {
-          gutil.log(gutil.colors.green("v" + version + " has an armv61 build. Writing install script.."))
+          gutil.log(gutil.colors.green("v" + version + " has an " + architecture + " build. Writing install script.."))
           validVersions.push(version)
           next(null, version)
         } else {
-          gutil.log(gutil.colors.red("v" + version + " has no armv61 build. Skipping.."))
+          gutil.log(gutil.colors.red("v" + version + " has no " + architecture + " build. Skipping.."))
           next(null, null)
         }
       });
