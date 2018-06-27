@@ -1,5 +1,7 @@
 ![Node Pi Zero](https://raw.githubusercontent.com/sdesalas/node-pi-zero/eb55d80c724950137b79dbeded540789dc3cf455/pizero.png)
 
+## Want these scripts for other architectures? Check out [node-installscripts](https://github.com/grayda/node-installscripts)
+
 # node-pi-zero
 
 Use the commands below to install node in the Raspberry Pi Zero.
