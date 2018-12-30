@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Grayda/node-pi-zero#readme",
   "dependencies": {
-    "async": "^2.3.0",
+    "async": "^2.6.1",
     "get-node-versions": "^1.0.2",
     "gulp": "^4.0.0",
     "gulp-util": "^3.0.8",
